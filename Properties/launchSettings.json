@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TryCatchFinally": {
+      "commandName": "Project",
+      "commandLineArgs": "trytrytry.txt\r\n111.txt"
+    }
+  }
+}
